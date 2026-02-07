@@ -73,7 +73,7 @@ I have strong experience working with databases, APIs, and admin-driven platform
   liveUrl: "https://jewellerycrm-superadmin.astraldigitech.com/login",
   githubUrl: "",
   imageUrl: "",
-}
+},
 
 
     {
