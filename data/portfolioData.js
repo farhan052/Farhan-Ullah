@@ -19,7 +19,7 @@ export const data = {
   email: "mfu7379@gmail.com",
   github: "https://github.com/farhan052",
   linkedin: "https://www.linkedin.com/in/farhan-ullah-836563246/",
-  portfolio: "https://mshahzeb.vercel.app/",
+  portfolio: "https://farhan-ullah.vercel.app/",
 
   // ABOUT SECTION
   about: {

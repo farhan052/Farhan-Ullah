@@ -23,7 +23,7 @@ const Header = () => {
           className="text-2xl font-extrabold text-white tracking-wider"
         >
           {/* {data.name.toUpperCase()} */}
-          M.Shahzeb
+          Mohd Farhan Ullah
         </Link>
 
         <nav className="hidden md:flex space-x-4">
