@@ -1,20 +1,13 @@
 // data/portfolioData.js
 
 export const data = {
-  name: "Mohd Farhan",
-  title: "Software Developer",
-  bio: `Passionate full-stack developer with 3+ years of experience building fast, secure, and scalable web applications. I specialize in dynamic, admin-manageable e-commerce platforms, CRMs, and CMS systems, combining modern frontend interfaces (React.js, Next.js, TypeScript, Tailwind CSS) with robust backend APIs (Laravel, MySQL) and cloud deployment (AWS).\n Notable projects:
-    Karrozz – dynamic e-commerce with admin dashboard, bulk uploads, SEO-friendly product feeds, and mobile API integration
+  name: "Mohd Farhanullah",
+  title: "Backend & Full Stack Developer (Next.js, MySQL)",
+  bio: `Software Developer with 3+ years of experience building production-grade, database-driven web applications. I specialize in developing scalable admin panels, eCommerce platforms, and CRM systems using Next.js, React.js, Laravel, and MySQL/MariaDB.
 
-    True Romance Bridal – admin-managed e-commerce with invoice management and SEO feeds
+My work focuses on server-side rendering (SSR), SEO optimization, secure API design, and high-performance SQL query optimization. I have hands-on experience supporting large-scale transactional systems, optimizing database schemas, and resolving live production issues.
 
-    Almaas & Blue Angel Jewellers CRMs – jewelry CRMs with role-based user management and printable receipts
-
-    Vehicle Inspection Management CRM – specialized operations management system
-
-    Key strengths: SSR, SEO optimization, API security (JWT), scalable architecture, bulk product management, cloud deployment, and mobile-ready APIs.
-
-    I’m always building solutions that empower businesses, optimize workflows, and enhance user experience, and I’m open to opportunities to create innovative, high-impact products.`,
+I enjoy building reliable systems that simplify business operations, improve performance, and scale efficiently.`,
 
   email: "mfu7379@gmail.com",
   github: "https://github.com/farhan052",
@@ -23,19 +16,23 @@ export const data = {
 
   // ABOUT SECTION
   about: {
-    headline: "Turning Complex UI Challenges Into Seamless User Experiences.",
-    text: "With 2+ years of experience in frontend engineering, I specialize in building scalable React applications, admin dashboards, and complete e-commerce interfaces. I excel in component-driven architecture, clean state management, and delivering performant UIs that simplify workflows. I’m currently seeking opportunities where I can contribute to frontend architecture, collaborate with strong engineering teams, and build high-impact user interfaces.",
+    headline: "Building Scalable Web Applications with Strong Backend Foundations",
+    text: `I build modern web applications that combine clean user interfaces with robust backend systems. 
+I have strong experience working with databases, APIs, and admin-driven platforms where performance, data integrity, and scalability matter.`,
     skills: [
+      "Next.js",
       "React.js",
-      "Redux Toolkit",
-      "React Hook Form",
-      "TypeScript",
+      "Server-Side Rendering (SSR)",
       "JavaScript (ES6+)",
+      "TypeScript",
       "Tailwind CSS",
-      "Material UI",
-      "Chakra UI",
+      "Laravel",
+      "MySQL / MariaDB",
+      "REST APIs",
+      "JWT Authentication",
       "Git & GitHub",
       "Postman",
+      "Linux Systems",
     ],
   },
 
@@ -43,129 +40,97 @@ export const data = {
   projects: [
     {
       id: 1,
-      title: "Leem E-Commerce UI",
-      slug: "leem-ecommerce",
+      title: "Jewellery CRM & Admin Platform",
+      slug: "jewellery-crm",
       description:
-        "Developed responsive PLP/PDP pages and reusable UI components for Leem, a leading GCC fashion e-commerce brand.",
+        "A full-featured CRM and admin system for jewelry businesses with role-based access and transaction management.",
       detailedDescription: [
-        "Built a fully responsive product listing and detail interface using React.js with reusable component structures.",
-        "Implemented clean UI blocks (banners, cards, categories) optimized for performance across mobile and desktop.",
+        "Built a scalable admin panel for managing customers, invoices, products, and orders.",
+        "Implemented server-side rendered pages for faster load times and SEO-friendly admin views.",
       ],
       responsibilities: [
-        "Developed modular UI components aligned with design system.",
-        "Ensured responsive and accessible layouts for all breakpoints.",
-        "Collaborated with designers and backend team for accurate data rendering.",
+        "Designed MySQL schemas for customers, invoices, products, and transactions.",
+        "Optimized SQL queries for reporting, filtering, and large datasets.",
+        "Implemented role-based authentication using JWT.",
       ],
-      technologies: ["React.js", "Tailwind CSS", "Axios"],
-      liveUrl: "https://www.leem.com",
+      technologies: ["Next.js", "React.js", "Laravel", "MySQL", "Tailwind CSS"],
+      liveUrl: "",
       githubUrl: "#",
-      imageUrl: "/image/leem.png",
+      imageUrl: "",
     },
 
     {
       id: 2,
-      title: "Yohesa Admin Panel",
-      slug: "yohesa-admin",
+      title: "Vehicle Rental & Booking Management System",
+      slug: "vehicle-rental-system",
       description:
-        "A full-featured admin dashboard for managing leads, roles, users, and credit card workflows.",
+        "A booking and rental management platform with admin controls and transactional workflows.",
       detailedDescription: [
-        "Yohesa Banking Software is a comprehensive admin platform designed to streamline digital banking operations.",
-        " The system enables administrators to manage user roles, employees, teams, and workflows efficiently.",
-        " It also supports credit card application processing for multiple banks, insurance management, and other financial service operations.",
-        "The platform is built to improve internal banking operations through centralized dashboards, secure role-based access control, and real-time data management.",
+        "Developed server-side rendered booking pages using Next.js.",
+        "Implemented availability checks, billing logic, and admin reporting.",
       ],
       responsibilities: [
-        "Integrated REST APIs across multiple modules (roles, employees, team management, credit card applications, etc.).",
-
-        "Developed reusable and responsive UI components using React.js.",
-
-        "Implemented form handling using React Hook Form and integrated validation logic.",
-
-        "Connected UI with backend services using Axios and managed state efficiently using Redux Toolkit.",
-
-        "Worked on data tables, filters, and dynamic UI updates to improve usability for bank admins.",
-
-        "Performed debugging, testing, and optimization to ensure smooth performance across modules.",
+        "Designed relational database schemas for rentals, bookings, and billing.",
+        "Built REST APIs backed by MySQL for booking workflows.",
+        "Optimized JOIN-based queries for availability and reporting.",
       ],
-      technologies: ["MERN", "Redux Toolkit", "Tailwind CSS"],
-      liveUrl: "https://yohesa-test-three.vercel.app/",
+      technologies: ["Next.js", "MySQL", "Laravel", "REST APIs"],
+      liveUrl: "",
       githubUrl: "#",
-      imageUrl: "/image/yohesa.png",
+      imageUrl: "",
     },
 
     {
       id: 3,
-      title: "AZOWN Property Platform",
-      slug: "azown-property",
+      title: "SEO-Optimized eCommerce Platform",
+      slug: "nextjs-ecommerce",
       description:
-        "A multi-category property listing platform with user roles, authentication, and responsive UI.",
+        "An SEO-friendly eCommerce storefront with admin-managed products and inventory.",
       detailedDescription: [
-        " Azown is a real estate marketplace where property owners and brokers can list up to seven different types of properties.",
-        " The platform enables users to create, manage, and browse property listings, helping buyers or renters find relevant real estate options with ease.",
+        "Built product listing and detail pages using Next.js SSR and ISR.",
+        "Integrated backend APIs for inventory, orders, and pricing.",
       ],
       responsibilities: [
-        " Developed the user interface using React.js, focusing on a clean, responsive, and user-friendly design.",
-
-        "Created reusable UI components for listing forms, property listings, and property detail views.",
-
-        "Integrated REST APIs to handle property data operations (create, read, update), allowing real-time interaction between frontend and backend.",
-
-        "Worked on data rendering logic and state management to provide a smooth user experience during property search and listings.",
+        "Optimized SQL queries for high-frequency read operations.",
+        "Implemented pagination, filtering, and search functionality.",
+        "Ensured data consistency across orders and inventory.",
       ],
-      technologies: ["MERN", "Context API", "Tailwind CSS"],
-      liveUrl: "https://azown.vercel.app/",
+      technologies: ["Next.js", "React.js", "MySQL", "REST APIs"],
+      liveUrl: "",
       githubUrl: "#",
-      imageUrl: "/image/azown1.png",
-    },
-
-    {
-      id: 4,
-      title: "Forever Store E-Commerce",
-      slug: "forever-store",
-      description:
-        "A personal MERN e-commerce project featuring product pages, cart system, and admin product management.",
-      detailedDescription: [
-        "Designed a clean shopping UI with category navigation, product filtering, and cart flow.",
-        "Implemented admin panel for product creation, editing, and media uploads.",
-      ],
-      responsibilities: [
-        "Built full frontend pages for user shopping flows.",
-        "Integrated admin product CRUD with secure API calls.",
-      ],
-      technologies: ["MERN", "Tailwind CSS", "Vercel"],
-      liveUrl: "https://foreverfrontend-xi.vercel.app/",
-      githubUrl: "#",
-      imageUrl: "/image/forever.png",
+      imageUrl: "",
     },
   ],
 
   // EXPERIENCE SECTION
   experience: [
-                {
-                  company: "Inovetic Technology",
-                  role: " Software Developer",
-                  duration: "Jun 2024 - Present",
-                  description: [
-                    "Software Developer with aprox 3 years of professional experience designing, operating, and optimizing", "<b>MySQL and MariaDB databases</b> for production web and eCommerce systems. Strong expertise in ","<b>SQL query optimization</b>, schema design, indexing, and data integrity.",
-                    " Experienced in supporting large-scale transactional systems, diagnosing production database issues, and collaborating with application teams to ensure stable and efficient data operations.",
-                  ],
-                },
-                {
-                  company: "Three Six Marketing Pvt. Ltd",
-                  role: "Software Developer",
-                  duration: "jul 2023 - jun 2024",
-                  description: [
-                    "Developed responsive interfaces using Material UI, Chakra UI, and Tailwind CSS for multiple client applications.",
-                    "Built dynamic form flows and multi-step modules using React Hook Form.",
-                    "Assisted with feature development, debugging, and UI enhancement under tight deadlines.",
-                  ],
-                },
-              ],
+    {
+      company: "Inovetic Technologies",
+      role: "Software Developer",
+      duration: "Jun 2024 - Present",
+      description: [
+        "Designed, maintained, and optimized production-grade MySQL and MariaDB databases for web and eCommerce systems.",
+        "Worked extensively on SQL query optimization, indexing strategies, and schema design.",
+        "Diagnosed and resolved live production database and backend issues.",
+        "Collaborated with frontend and backend teams to ensure data integrity and system stability.",
+      ],
+    },
+    {
+      company: "Three Six Marketing Pvt. Ltd.",
+      role: "Software Developer",
+      duration: "Jul 2023 - Jun 2024",
+      description: [
+        "Developed responsive frontend interfaces using React.js, Material UI, Chakra UI, and Tailwind CSS.",
+        "Built dynamic forms and multi-step workflows for admin-driven applications.",
+        "Worked closely with backend teams to integrate APIs and improve application performance.",
+      ],
+    },
+  ],
 
   // EDUCATION SECTION
   education: [
     {
-      degree: "B.Tech in Computer Science Engineering",
+      degree: "Bachelor of Technology (B.Tech) in Computer Science",
       institution: "Khwaja Moinuddin Chishti Language University",
       duration: "2019 - 2023",
       gpa: "7.3 / 10",
