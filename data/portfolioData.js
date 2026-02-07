@@ -39,25 +39,42 @@ I have strong experience working with databases, APIs, and admin-driven platform
   // PROJECTS SECTION
   projects: [
     {
-      id: 1,
-      title: "Jewellery CRM & Admin Platform",
-      slug: "jewellery-crm",
-      description:
-        "A full-featured CRM and admin system for jewelry businesses with role-based access and transaction management.",
-      detailedDescription: [
-        "Built a scalable admin panel for managing customers, invoices, products, and orders.",
-        "Implemented server-side rendered pages for faster load times and SEO-friendly admin views.",
-      ],
-      responsibilities: [
-        "Designed MySQL schemas for customers, invoices, products, and transactions.",
-        "Optimized SQL queries for reporting, filtering, and large datasets.",
-        "Implemented role-based authentication using JWT.",
-      ],
-      technologies: ["Next.js", "React.js", "Laravel", "MySQL", "Tailwind CSS"],
-      liveUrl: "",
-      githubUrl: "#",
-      imageUrl: "",
-    },
+  id: 1,
+  title: "Jewellery CRM SuperAdmin (Multi-Domain, Store & Vendor Management)",
+  slug: "jewellery-crm-superadmin",
+  description:
+    "Enterprise-grade Jewellery CRM SuperAdmin system supporting multi-domain operations, store-wise invoicing, purchase orders, and vendor order management.",
+  detailedDescription: [
+    "Developed a multi-tenant Jewellery CRM platform enabling multiple domains and stores to operate independently within a single system.",
+    "Implemented store-wise invoice generation, purchase order workflows, and vendor order management.",
+    "Built role-based access control for SuperAdmin, Admin, Store Manager, Vendor, and Staff users.",
+    "Designed responsive and scalable admin interfaces using Bootstrap.",
+  ],
+  responsibilities: [
+    "Designed scalable MySQL/MariaDB schemas supporting multi-domain, multi-store, and vendor-level data isolation.",
+    "Implemented vendor order management workflows including order creation, status tracking, and fulfillment.",
+    "Developed store-wise invoice and purchase order generation with transactional consistency.",
+    "Implemented product-wise barcode generation for inventory tracking and billing.",
+    "Optimized complex SQL queries for reporting, filtering, and large transactional datasets.",
+    "Ensured secure authentication and authorization across domains, stores, and vendor roles.",
+  ],
+  technologies: [
+    "Laravel",
+    "MySQL / MariaDB",
+    "Bootstrap",
+    "REST APIs",
+    "Role-Based Access Control (RBAC)",
+    "Multi-Domain (Multi-Tenant) Architecture",
+    "Store-Wise Invoice Management",
+    "Purchase Order Management",
+    "Vendor Order Management",
+    "Barcode Generation",
+  ],
+  liveUrl: "https://jewellerycrm-superadmin.astraldigitech.com/login",
+  githubUrl: "",
+  imageUrl: "",
+}
+
 
     {
       id: 2,
@@ -74,7 +91,7 @@ I have strong experience working with databases, APIs, and admin-driven platform
         "Built REST APIs backed by MySQL for booking workflows.",
         "Optimized JOIN-based queries for availability and reporting.",
       ],
-      technologies: ["Next.js", "MySQL", "Laravel", "REST APIs"],
+      technologies: [ "MySQL", "Laravel", "REST APIs","WinSCP","Filzilla", 'AWS EC2'],
       liveUrl: "",
       githubUrl: "#",
       imageUrl: "",
