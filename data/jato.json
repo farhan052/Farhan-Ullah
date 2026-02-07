@@ -1,0 +1,4779 @@
+{
+    "results": [{
+            "instanceId": "00f0414b-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-03-23",
+            "endDate": "2020-06-30",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I4FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30970,
+                "retailPriceIncDelivery": 31565,
+                "basePrice": 25808.33,
+                "countrySpecificPrice": 32475,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83948-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-04-01",
+            "endDate": "2018-08-21",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 244,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 179,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34045,
+                "retailPriceIncDelivery": 34640,
+                "basePrice": 28370.83,
+                "countrySpecificPrice": 35525,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f0411a-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-03-23",
+            "endDate": "2020-06-30",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37750,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83946-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-04-01",
+            "endDate": "2018-08-21",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 244,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 179,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30545,
+                "retailPriceIncDelivery": 31140,
+                "basePrice": 25454.17,
+                "countrySpecificPrice": 32025,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00de5dcb-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-08-22",
+            "endDate": "2019-03-31",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 244,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 179,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34045,
+                "retailPriceIncDelivery": 34640,
+                "basePrice": 28370.83,
+                "countrySpecificPrice": 35935,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d39b76-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-01-01",
+            "endDate": "2018-03-31",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "tax change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37395,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d39b74-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2017-11-29",
+            "endDate": "2017-12-31",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "key items"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 33595,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00fa49fb-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2021,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-01-01",
+            "endDate": "2021-03-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 40095,
+                "retailPriceIncDelivery": 40690,
+                "basePrice": 33412.5,
+                "countrySpecificPrice": 42595,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f04129-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-04-01",
+            "endDate": "2020-10-12",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 34700,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010ecc9d-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2022-07-01",
+            "endDate": "2022-08-31",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "price change",
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 42445,
+                "retailPriceIncDelivery": 43090,
+                "basePrice": 35370.83,
+                "countrySpecificPrice": 45160,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f04128-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-03-23",
+            "endDate": "2020-06-30",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 34250,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f0413b-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-03-23",
+            "endDate": "2020-06-30",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 40575,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00fdfdb6-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2020,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-04-01",
+            "endDate": "2021-07-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "price change",
+                "tax change",
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 41205,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83947-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-03-22",
+            "endDate": "2018-03-31",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 255,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 188,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34045,
+                "retailPriceIncDelivery": 34640,
+                "basePrice": 28370.83,
+                "countrySpecificPrice": 35495,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "011541b6-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2023,
+            "fractionalModelYear": "Full",
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2023-02-17",
+            "endDate": "2023-03-31",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 366,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 269,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 42445,
+                "retailPriceIncDelivery": 43140,
+                "basePrice": 35370.83,
+                "countrySpecificPrice": 45210,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d39b73-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-01-01",
+            "endDate": "2018-03-31",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "tax change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 33895,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00e4e9bd-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-04-01",
+            "endDate": "2020-03-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 40575,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f04110-0000-0000-ffff-ffffffffffff",
+            "uid": "8133722",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-03-23",
+            "endDate": "2020-06-30",
+            "version": "Blue Edition 2.0 T-GDi 8-speed auto ISG",
+            "trim": "Blue Edition",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": true,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 35870,
+                "retailPriceIncDelivery": 36465,
+                "basePrice": 29891.67,
+                "countrySpecificPrice": 37375,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00e4e98a-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-04-01",
+            "endDate": "2019-09-30",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 244,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 179,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34045,
+                "retailPriceIncDelivery": 34640,
+                "basePrice": 28370.83,
+                "countrySpecificPrice": 35975,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d39b75-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2017-11-29",
+            "endDate": "2017-12-31",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "key items"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37095,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010ecc9e-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2023,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2022-07-01",
+            "endDate": "2022-10-31",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 42445,
+                "retailPriceIncDelivery": 43090,
+                "basePrice": 35370.83,
+                "countrySpecificPrice": 45160,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00de5dcc-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-08-22",
+            "endDate": "2019-03-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 365,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 268,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 40535,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00de5dc8-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-08-22",
+            "endDate": "2019-03-31",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37725,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f040f0-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-03-23",
+            "endDate": "2020-06-30",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34470,
+                "retailPriceIncDelivery": 35065,
+                "basePrice": 28725,
+                "countrySpecificPrice": 35975,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00fdfdb5-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2021,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-04-01",
+            "endDate": "2021-08-04",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 40095,
+                "retailPriceIncDelivery": 40690,
+                "basePrice": 33412.5,
+                "countrySpecificPrice": 42655,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83945-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-03-22",
+            "endDate": "2018-03-31",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 255,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 188,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30545,
+                "retailPriceIncDelivery": 31140,
+                "basePrice": 25454.17,
+                "countrySpecificPrice": 31995,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83949-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-03-22",
+            "endDate": "2018-03-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 370,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 272,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 40495,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00de5dc9-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-08-22",
+            "endDate": "2019-03-31",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 34225,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "0103d9da-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-10-01",
+            "endDate": "2021-12-14",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 40345,
+                "retailPriceIncDelivery": 40990,
+                "basePrice": 33620.83,
+                "countrySpecificPrice": 42955,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d32d81-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2017-11-14",
+            "endDate": "2017-12-31",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "new model"
+            ],
+            "dataStatus": [
+                "key items"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37095,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "0113bed0-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2023,
+            "fractionalModelYear": "Full",
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2022-11-01",
+            "endDate": "2023-02-16",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 366,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 269,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 42445,
+                "retailPriceIncDelivery": 43140,
+                "basePrice": 35370.83,
+                "countrySpecificPrice": 45210,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f0411b-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-04-01",
+            "endDate": "2020-10-12",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 38200,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d8394a-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-04-01",
+            "endDate": "2018-08-21",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 370,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 272,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 40535,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d32d82-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2017-11-14",
+            "endDate": "2018-03-31",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "new model"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 255,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 188,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34045,
+                "retailPriceIncDelivery": 34640,
+                "basePrice": 28370.83,
+                "countrySpecificPrice": 35495,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00ea8c67-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-10-01",
+            "endDate": "2020-03-31",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I4FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30970,
+                "retailPriceIncDelivery": 31565,
+                "basePrice": 25808.33,
+                "countrySpecificPrice": 32475,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010675d6-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-11-25",
+            "endDate": "2022-03-31",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 40345,
+                "retailPriceIncDelivery": 40990,
+                "basePrice": 33620.83,
+                "countrySpecificPrice": 42955,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00fa49fc-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2020,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-01-01",
+            "endDate": "2021-03-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 41145,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83944-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-04-01",
+            "endDate": "2018-08-21",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 34225,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00e4e9bc-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-04-01",
+            "endDate": "2019-09-30",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I4FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 244,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 179,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30545,
+                "retailPriceIncDelivery": 31140,
+                "basePrice": 25454.17,
+                "countrySpecificPrice": 32475,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83942-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-04-01",
+            "endDate": "2018-08-21",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37725,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d32d80-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2017-11-14",
+            "endDate": "2017-12-31",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "new model"
+            ],
+            "dataStatus": [
+                "key items"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 33595,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010b76fd-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2022-04-01",
+            "endDate": "2022-05-23",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 41445,
+                "retailPriceIncDelivery": 42090,
+                "basePrice": 34537.5,
+                "countrySpecificPrice": 44160,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d32d83-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2017-11-14",
+            "endDate": "2018-03-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "new model"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 370,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 272,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 40495,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "0102ac10-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-08-05",
+            "endDate": "2021-09-30",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 40345,
+                "retailPriceIncDelivery": 40940,
+                "basePrice": 33620.83,
+                "countrySpecificPrice": 42905,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010dbb2a-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2022-05-24",
+            "endDate": "2022-06-30",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 41445,
+                "retailPriceIncDelivery": 42090,
+                "basePrice": 34537.5,
+                "countrySpecificPrice": 44160,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00fa49fa-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-01-01",
+            "endDate": "2021-03-31",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34470,
+                "retailPriceIncDelivery": 35065,
+                "basePrice": 28725,
+                "countrySpecificPrice": 36425,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00e4e96e-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-04-01",
+            "endDate": "2020-03-31",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 34250,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00ea8c6a-0000-0000-ffff-ffffffffffff",
+            "uid": "8133722",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-10-01",
+            "endDate": "2020-03-31",
+            "version": "Blue Edition 2.0 T-GDi 8-speed auto ISG",
+            "trim": "Blue Edition",
+            "versionAvailability": "current",
+            "versionState": [
+                "new version",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": true,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 35870,
+                "retailPriceIncDelivery": 36465,
+                "basePrice": 29891.67,
+                "countrySpecificPrice": 37375,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00ea8c64-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-10-01",
+            "endDate": "2020-03-31",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34470,
+                "retailPriceIncDelivery": 35065,
+                "basePrice": 28725,
+                "countrySpecificPrice": 35975,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f0414c-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-04-01",
+            "endDate": "2020-10-12",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I4FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30970,
+                "retailPriceIncDelivery": 31565,
+                "basePrice": 25808.33,
+                "countrySpecificPrice": 32925,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83941-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-03-22",
+            "endDate": "2018-03-31",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37395,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d32d7f-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2017-11-14",
+            "endDate": "2018-03-31",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "new model"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 255,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 188,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30545,
+                "retailPriceIncDelivery": 31140,
+                "basePrice": 25454.17,
+                "countrySpecificPrice": 31995,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f0413c-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-04-01",
+            "endDate": "2020-12-31",
+            "version": "GT S 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 38645,
+                "retailPriceIncDelivery": 39240,
+                "basePrice": 32204.17,
+                "countrySpecificPrice": 41145,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00d83943-0000-0000-ffff-ffffffffffff",
+            "uid": "7911405",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2018,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-03-22",
+            "endDate": "2018-03-31",
+            "version": "GT-Line 2.2CRDi 197bhp 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "out-going",
+            "versionState": [
+                "out going"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": null,
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 200,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 147,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 32745,
+                "retailPriceIncDelivery": 33340,
+                "basePrice": 27287.5,
+                "countrySpecificPrice": 33895,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00f040f1-0000-0000-ffff-ffffffffffff",
+            "uid": "7911407",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2020-04-01",
+            "endDate": "2020-12-31",
+            "version": "GT-Line S 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I5FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 242,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 178,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 34470,
+                "retailPriceIncDelivery": 35065,
+                "basePrice": 28725,
+                "countrySpecificPrice": 36425,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00e4e989-0000-0000-ffff-ffffffffffff",
+            "uid": "7911406",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2019-04-01",
+            "endDate": "2020-03-31",
+            "version": "GT-Line S 2.2CRDi 197bhp 8-spd auto ISG",
+            "trim": "GT-Line S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change",
+                "tax change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6CA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 2199,
+                "litres": 2.2,
+                "power": [{
+                        "value": 197,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 145,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "diesel"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 36245,
+                "retailPriceIncDelivery": 36840,
+                "basePrice": 30204.17,
+                "countrySpecificPrice": 37750,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010ac41c-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2022-02-01",
+            "endDate": "2022-03-31",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 40695,
+                "retailPriceIncDelivery": 41340,
+                "basePrice": 33912.5,
+                "countrySpecificPrice": 43305,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010675d5-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2022,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2021-12-15",
+            "endDate": "2022-01-31",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "price change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 40695,
+                "retailPriceIncDelivery": 41340,
+                "basePrice": 33912.5,
+                "countrySpecificPrice": 43305,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "00de5dca-0000-0000-ffff-ffffffffffff",
+            "uid": "7911404",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2019,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2018-08-22",
+            "endDate": "2019-03-31",
+            "version": "GT-Line 2.0 T-GDi 8-speed auto ISG",
+            "trim": "GT-Line",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change",
+                "specification change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I4FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 1998,
+                "litres": 2,
+                "power": [{
+                        "value": 244,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 179,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 30545,
+                "retailPriceIncDelivery": 31140,
+                "basePrice": 25454.17,
+                "countrySpecificPrice": 32435,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        },
+        {
+            "instanceId": "010dbb2b-0000-0000-ffff-ffffffffffff",
+            "uid": "7911408",
+            "countryCode": "GB",
+            "country": "Great Britain",
+            "make": "KIA",
+            "makeId": "KIA",
+            "modelYear": 2023,
+            "fractionalModelYear": null,
+            "model": "Stinger",
+            "modelId": "STINGER",
+            "startDate": "2022-05-24",
+            "endDate": "2022-06-30",
+            "version": "'GT S' 3.3 T-GDi 8-speed auto ISG",
+            "trim": "GT S",
+            "versionAvailability": "current",
+            "versionState": [
+                "model year change"
+            ],
+            "dataStatus": [
+                "full specs"
+            ],
+            "isPreBuilt": false,
+            "isSpecialEdition": false,
+            "powertrainType": "combustion",
+            "concludedStatus": "Concluded",
+            "manufacturersCode": "I6FA",
+            "vehicleType": "Cars",
+            "seatingCapacity": 5,
+            "globalSegment": "JG Upper Medium",
+            "regionalSegment": "EU D2 - upper medium +",
+            "body": {
+                "numberOfDoors": 5,
+                "cabType": null,
+                "type": "hatchback"
+            },
+            "engine": {
+                "cc": 3342,
+                "litres": 3.3,
+                "power": [{
+                        "value": 361,
+                        "unit": "hp"
+                    },
+                    {
+                        "value": 266,
+                        "unit": "kw"
+                    }
+                ],
+                "fuelType": "unleaded"
+            },
+            "transmission": {
+                "description": "automatic with manual mode",
+                "type": "automatic",
+                "numberOfSpeeds": "8",
+                "drivenWheels": "rear"
+            },
+            "battery": {
+                "maximumkWh": null,
+                "useablekWh": null
+            },
+            "prices": {
+                "retailPrice": 41445,
+                "retailPriceIncDelivery": 42090,
+                "basePrice": 34537.5,
+                "countrySpecificPrice": 44160,
+                "currency": "GBP"
+            },
+            "_links": [{
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/Stinger",
+                    "rel": "index",
+                    "method": "GET"
+                },
+                {
+                    "href": "https://api.jato.com/index/v1/en-gb/GB/instances?makeId=KIA&modelId=STINGER",
+                    "rel": "globalIndex",
+                    "method": "GET"
+                }
+            ]
+        }
+    ],
+    "operationId": "1bca7ae70ba5b8ee3c2bb1d6dc2c6ae8",
+    "_links": [{
+        "href": "https://api.jato.com/index/v1/en-gb/GB/KIA/STINGER?pageNo=1&pageSize=100",
+        "rel": "self",
+        "method": "GET"
+    }]
+}
