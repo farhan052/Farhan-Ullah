@@ -109,7 +109,10 @@ export async function POST(request) {
       "utf-8"
     );
 
-    return NextResponse.json({ success: true });
+   return NextResponse.json({
+  success: true,
+  message: "Thank you for contacting us. We’ll get back to you shortly!",
+});
   } catch (error) {
     console.error(error);
     return NextResponse.json(
