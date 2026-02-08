@@ -24,6 +24,9 @@ export async function POST(request) {
     // upload/{date}
     const dirPath = path.join(process.cwd(), "upload", date);
      res=await fs.mkdir(dirPath, { recursive: true });
+      if(res){
+       return res;
+      }
       
 
     // person-note-{unix}.json
