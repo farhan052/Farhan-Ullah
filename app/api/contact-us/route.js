@@ -73,7 +73,7 @@ export async function POST(request) {
               `
 
     await transporter.sendMail({
-      from: '"Sender Name" <farhanullah1023@gmail.com>',
+      from: `"Sender Name" <${data.email}>`,
       to: "mfu7379@gmail.com",
       subject: subject,
       text: data.message,
@@ -82,7 +82,17 @@ export async function POST(request) {
 
     // upload/{date}
     const dirPath = path.join(process.cwd(), "public/upload", date);
-    let  res =await fs.mkdir(dirPath, { recursive: true ,mode: 0o777});
+
+          try {
+        // check if directory exists
+            await fs.access(dirPath);
+            // exists → do nothing
+          } catch {
+            // does not exist → create
+            await fs.mkdir(dirPath, {recursive: true , mode: 0o777 });
+          }
+
+    // let  res =await fs.mkdir(dirPath, { recursive: true ,mode: 0o777});
      const fileName = `person-note-${unixTime}.json`;
     const filePath = path.join(dirPath, fileName);
 
