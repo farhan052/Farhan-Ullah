@@ -10,7 +10,7 @@ export async function POST(request) {
 
     if (!data?.message) {
       return NextResponse.json(
-        { success: false, message: "Note is required" },
+        { success: false, message: "Message is required" },
         { status: 400 }
       );
     }
