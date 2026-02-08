@@ -27,7 +27,7 @@ const ProjectCard = ({ project }) => {
         </Link>
 
         {/* NEW TEXT COLOR: text-gray-400 */}
-        <p className="text-gray-400 mb-4 h-16">{project.description}</p>
+        <p className="text-gray-400 mb-4  line-clamp-3">{project.description}</p>
 
         <div className="flex flex-wrap gap-2 text-sm mb-6">
           {/* NEW TECH CHIP: bg-indigo-900/50 and text-indigo-300 */}
