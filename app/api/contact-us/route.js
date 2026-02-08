@@ -81,33 +81,33 @@ export async function POST(request) {
     });
 
     // upload/{date}
-    const dirPath = path.join(process.cwd(), "public/upload", date);
+    // const dirPath = path.join(process.cwd(), "public/upload", date);
 
-          try {
-        // check if directory exists
-            await fs.access(dirPath);
-            // exists → do nothing
-          } catch {
-            // does not exist → create
-            await fs.mkdir(dirPath, {recursive: true , mode: 0o777 });
-          }
+    //       try {
+    //     // check if directory exists
+    //         await fs.access(dirPath);
+    //         // exists → do nothing
+    //       } catch {
+    //         // does not exist → create
+    //         await fs.mkdir(dirPath, {recursive: true , mode: 0o777 });
+    //       }
 
-    // let  res =await fs.mkdir(dirPath, { recursive: true ,mode: 0o777});
-     const fileName = `person-note-${unixTime}.json`;
-    const filePath = path.join(dirPath, fileName);
+    // // let  res =await fs.mkdir(dirPath, { recursive: true ,mode: 0o777});
+    //  const fileName = `person-note-${unixTime}.json`;
+    // const filePath = path.join(dirPath, fileName);
 
-    await fs.writeFile(
-      filePath,
-      JSON.stringify(
-        {
-          ...data,
-          createdAt: unixTime,
-        },
-        null,
-        2
-      ),
-      "utf-8"
-    );
+    // await fs.writeFile(
+    //   filePath,
+    //   JSON.stringify(
+    //     {
+    //       ...data,
+    //       createdAt: unixTime,
+    //     },
+    //     null,
+    //     2
+    //   ),
+    //   "utf-8"
+    // );
 
    return NextResponse.json({
   success: true,
