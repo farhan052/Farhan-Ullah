@@ -23,7 +23,8 @@ export async function POST(request) {
 
     // upload/{date}
     const dirPath = path.join(process.cwd(), "upload", date);
-    await fs.mkdir(dirPath, { recursive: true });
+     res=await fs.mkdir(dirPath, { recursive: true });
+      
 
     // person-note-{unix}.json
     const fileName = `person-note-${unixTime}.json`;
