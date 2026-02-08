@@ -23,9 +23,9 @@ export async function POST(request) {
 
     // upload/{date}
     const dirPath = path.join(process.cwd(), "upload", date);
-     res=await fs.mkdir(dirPath, { recursive: true });
+    res=await fs.mkdir(dirPath, { recursive: true });
+    return res;
       if(res){
-       return res;
       }
       
 
