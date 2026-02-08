@@ -31,7 +31,7 @@ const Header = () => {
           <NavItem href="/#experience">Experience</NavItem>
           <NavItem href="/#projects">Projects</NavItem>
           <NavItem href="/#education">Education</NavItem>
-          <NavItem href="/#contact">Contact</NavItem>
+          <NavItem href="/contact-us">Contact</NavItem>
         </nav>
 
         <div className="md:hidden">

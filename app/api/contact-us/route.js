@@ -8,7 +8,7 @@ export async function POST(request) {
   try {
     const data = await request.json();
 
-    if (!data?.note) {
+    if (!data?.message) {
       return NextResponse.json(
         { success: false, message: "Note is required" },
         { status: 400 }
