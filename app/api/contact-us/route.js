@@ -52,10 +52,10 @@ export async function POST(request) {
     });
 
 
-    //   const ip =
-    // req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
-    // req.headers.get("x-real-ip") ||
-    // "Unknown";
+      const ip =
+    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+    request.headers.get("x-real-ip") ||
+    "Unknown";
 
 
   let subject ="Service Request form "+data.name
