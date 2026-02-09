@@ -48,9 +48,9 @@ const Hero = () => {
             <Button href="/#contact">Get In Touch</Button>
           </div>
         </div>
+      </div>
              {/* RIGHT SIDE SWIPER */}
         <TechSwiper />
-      </div>
     </section>
   );
 };
