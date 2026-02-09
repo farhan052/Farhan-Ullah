@@ -58,7 +58,7 @@ export async function POST(request) {
     "Unknown";
 
 
-  let subject ="Service Request form"+data.name
+  let subject ="Service Request form "+data.name
   
 let html = `
 <!DOCTYPE html>
