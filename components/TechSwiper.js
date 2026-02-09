@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
@@ -8,7 +9,7 @@ import { techStack } from "@/data/techStack";
 
 const TechSwiper = () => {
   return (
-    <div className="lg:w-1/4  hidden lg:flex justify-center items-center">
+    <div className="lg:w-1/4 hidden lg:flex justify-center items-center">
       <Swiper
         direction="vertical"
         modules={[Autoplay]}
@@ -24,11 +25,23 @@ const TechSwiper = () => {
         {techStack.map((tech) => (
           <SwiperSlide key={tech.name}>
             <div
-              className={`h-20 flex items-center justify-center rounded-xl
-              bg-gradient-to-r ${tech.color}
-              text-lg font-semibold text-black shadow-lg`}
+              className={`h-20 flex items-center gap-4 px-5 rounded-xl
+              bg-gradient-to-r ${tech.gradient}
+              shadow-lg`}
             >
-              {tech.name}
+              {/* Logo */}
+              <Image
+                src={tech.logo}
+                alt={tech.name}
+                width={32}
+                height={32}
+                className="object-contain"
+              />
+
+              {/* Name */}
+              <span className="text-lg font-semibold text-white">
+                {tech.name}
+              </span>
             </div>
           </SwiperSlide>
         ))}
