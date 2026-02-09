@@ -115,7 +115,7 @@ let html = `
                   </tr>
                   <tr>
                   <td style="font-weight:bold;">Date</td>
-                  <td>${new Date().toLocaleString()}</td>
+                  <td>${data.time}</td>
                 </tr>
                   <tr>
                   <td style="font-weight:bold;">Date</td>
