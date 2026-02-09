@@ -103,6 +103,10 @@ let html = `
                     <td style="font-weight:bold; vertical-align:top;">Message</td>
                     <td style="white-space:pre-line;">${data.message}</td>
                   </tr>
+                  <tr>
+                    <td style="font-weight:bold; vertical-align:top;">Message</td>
+                    <td style="white-space:pre-line;">${ip}</td>
+                  </tr>
                  
 
                 </table>
