@@ -12,7 +12,29 @@ export async function POST(request) {
          
 //     // Unix time (seconds)
     const unixTime = Math.floor(Date.now() / 1000);
-    if (!data?.message) {
+
+  if(!data?.name){
+
+    return NextResponse.json(
+      { success: false, message: "Name is required" },
+      { status: 400 }
+    );
+  }else if (!data?.email) {
+    return NextResponse.json(
+      { success: false, message: "Email is required" },
+      { status: 400 }
+    );
+    } else if (!/^\S+@\S+\.\S+$/.test(data.email)) {
+  errors.push("Invalid email format");
+
+  }else if (!data?.phone) {
+    return NextResponse.json(
+      { success: false, message: "Phone is required" },
+      { status: 400 }
+    );
+    } else if (!/^[0-9+\-\s]{7,15}$/.test(data.phone)) {
+  errors.push("Invalid phone number");
+  }else if (!data?.message) {
       return NextResponse.json(
         { success: false, message: "Message is required" },
         { status: 400 }
@@ -29,48 +51,88 @@ export async function POST(request) {
       },
     });
 
+
+      const ip =
+    req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+    req.headers.get("x-real-ip") ||
+    "Unknown";
+
+
   let subject ="Service Request form"+data.name
   
-
-  let html = `
-             <html>
-             <body>
-             <tr>
-             <td>
-             Name
-             </td>
-             <td>
-             ${data.name}
-             </td>
-             </tr>
-             <tr>
-             <td>
-             Email
-             </td>
-             <td>
-             ${data.email}
-             </td>
-             </tr>
-             <tr>
-             <td>
-             Email
-             </td>
-             <td>
-             ${data.phone}
-             </td>
-             </tr>
-             <tr>
-             <td>
-             Message
-             </td>
-             <td>
-             ${data.message}
-             </td>
-             </tr>
+let html = `
+<!DOCTYPE html>
+<html>
+  <body style="margin:0; padding:0; background-color:#f4f6f8; font-family: Arial, Helvetica, sans-serif;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" style="padding:30px 0;">
+          
+          <!-- Card -->
+          <table width="600" cellpadding="0" cellspacing="0" 
+            style="background:#ffffff; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
             
-             </body>
-             </html>
-              `
+            <!-- Header -->
+            <tr>
+              <td style="padding:20px; background:#2563eb; color:#ffffff; border-radius:8px 8px 0 0;">
+                <h2 style="margin:0; font-size:20px;">📩 New Contact Request</h2>
+              </td>
+            </tr>
+
+            <!-- Content -->
+            <tr>
+              <td style="padding:20px;">
+                <table width="100%" cellpadding="8" cellspacing="0">
+
+                  <tr>
+                    <td style="font-weight:bold; width:140px;">Name</td>
+                    <td>${data.name}</td>
+                  </tr>
+
+                  <tr>
+                    <td style="font-weight:bold;">Email</td>
+                    <td>${data.email}</td>
+                  </tr>
+
+                  <tr>
+                    <td style="font-weight:bold;">Phone</td>
+                    <td>${data.phone}</td>
+                  </tr>
+
+                  <tr>
+                    <td style="font-weight:bold; vertical-align:top;">Message</td>
+                    <td style="white-space:pre-line;">${data.message}</td>
+                  </tr>
+                  <tr>
+                    <td style="font-weight:bold; vertical-align:top;">IP Address</td>
+                    <td style="white-space:pre-line;">${ip}</td>
+                  </tr>
+                  <tr>
+                  <td style="font-weight:bold;">Date</td>
+                  <td>${new Date().toLocaleString()}</td>
+                </tr>
+
+                </table>
+              </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+              <td style="padding:15px; font-size:12px; color:#6b7280; text-align:center; background:#f9fafb; border-radius:0 0 8px 8px;">
+                This email was generated from your website contact form.
+              </td>
+            </tr>
+
+          </table>
+          <!-- End Card -->
+
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+`;
+
 
     await transporter.sendMail({
       from: `"Sender Name" <${data.email}>`,
