@@ -1,6 +1,7 @@
 // components/Hero.js (Left-Aligned, Attractive Dark Mode)
 import Button from "./ui/Button";
 import { data } from "@/data/portfolioData";
+import TechSwiper from "./TechSwiper";
 
 const Hero = () => {
   return (
@@ -47,6 +48,8 @@ const Hero = () => {
             <Button href="/#contact">Get In Touch</Button>
           </div>
         </div>
+             {/* RIGHT SIDE SWIPER */}
+        <TechSwiper />
       </div>
     </section>
   );
