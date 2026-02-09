@@ -57,6 +57,12 @@ export async function POST(request) {
     request.headers.get("x-real-ip") ||
     "Unknown";
 
+    const indianTime = new Date().toLocaleString("en-IN", {
+  timeZone: "Asia/Kolkata",
+  dateStyle: "full",
+  timeStyle: "medium",
+});
+
 
   let subject ="Service Request form "+data.name
   
@@ -110,6 +116,10 @@ let html = `
                   <tr>
                   <td style="font-weight:bold;">Date</td>
                   <td>${new Date().toLocaleString()}</td>
+                </tr>
+                  <tr>
+                  <td style="font-weight:bold;">Date</td>
+                  <td>${indianTime}</td>
                 </tr>
                  
 
