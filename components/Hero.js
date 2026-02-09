@@ -10,7 +10,7 @@ const Hero = () => {
       id="hero"
       className="flex justify-between min-h-[90vh] px-4 py-20 bg-gray-900"
     >
-      <div className="max-w-7xl justify-start mx-auto flex items-center w-full">
+      <div className="max-w-full lg:max-w-[70%] justify-start mx-auto flex items-center w-full">
         {/* Decorative Element - A subtle vertical line */}
         <div className="hidden md:block h-72 w-1 bg-blue-500/50 mr-12 rounded-full shadow-lg shadow-blue-500/20"></div>
 
