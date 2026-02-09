@@ -8,7 +8,7 @@ const Hero = () => {
     // CHANGES: Removed items-center, text-center. Added flex, justify-start for alignment.
     <section
       id="hero"
-      className="flex justify-between mx-auto min-h-[90vh] px-4 py-20 bg-gray-900"
+      className="flex justify-evenly mx-auto min-h-[90vh] px-4 py-20 bg-gray-900"
     >
       <div className="max-w-full lg:max-w-[60%] justify-start  flex items-center w-full">
         {/* Decorative Element - A subtle vertical line */}
