@@ -7,7 +7,7 @@ import { useRouter } from "next/navigation";
 export default function ContactUsPage() {
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState("");
-const router =  useRouter();
+  const router =  useRouter();
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -31,7 +31,7 @@ const router =  useRouter();
     const data = await res.json();
     setLoading(false);
     setMessage(data.message);
-      router.reload();
+      location.reload();
   }
 
   return (
