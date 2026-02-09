@@ -16,6 +16,7 @@ const TechSwiper = () => {
         slidesPerView={3}
         spaceBetween={24}
         loop
+        row={2}
         autoplay={{
           delay: 2000,
           disableOnInteraction: false,
