@@ -1,4 +1,4 @@
-[
+ export const techStack =[
   {
     "name": "Laravel",
     "logo": "/tech/laravel.png",
@@ -66,3 +66,5 @@
     "gradient": "from-yellow-400 to-purple-500"
   }
 ]
+
+export
