@@ -2,7 +2,7 @@
 
 export const data = {
   name: "Mohd Farhanullah",
-  title: "Backend & Full Stack Developer (Next.js, MySQL)",
+  title: "Software Developer",
   bio: `Software Developer with 3+ years of experience building production-grade, database-driven web applications. I specialize in developing scalable admin panels, eCommerce platforms, and CRM systems using Next.js, React.js, Laravel, and MySQL/MariaDB.
 
 My work focuses on server-side rendering (SSR), SEO optimization, secure API design, and high-performance SQL query optimization. I have hands-on experience supporting large-scale transactional systems, optimizing database schemas, and resolving live production issues.
