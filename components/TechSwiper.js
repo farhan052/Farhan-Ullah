@@ -8,7 +8,7 @@ import { techStack } from "@/data/techStack";
 
 const TechSwiper = () => {
   return (
-    <div className="lg:w-1/4  w-64 hidden lg:flex justify-center item-center">
+    <div className="lg:w-1/4  hidden lg:flex justify-center items-center">
       <Swiper
         direction="vertical"
         modules={[Autoplay]}
@@ -19,7 +19,7 @@ const TechSwiper = () => {
           delay: 2000,
           disableOnInteraction: false,
         }}
-        className="h-72"
+        className="h-72 w-full"
       >
         {techStack.map((tech) => (
           <SwiperSlide key={tech.name}>
