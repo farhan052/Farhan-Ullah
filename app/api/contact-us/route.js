@@ -104,9 +104,13 @@ let html = `
                     <td style="white-space:pre-line;">${data.message}</td>
                   </tr>
                   <tr>
-                    <td style="font-weight:bold; vertical-align:top;">Message</td>
+                    <td style="font-weight:bold; vertical-align:top;">IP Address</td>
                     <td style="white-space:pre-line;">${ip}</td>
                   </tr>
+                  <tr>
+                  <td style="font-weight:bold;">Date</td>
+                  <td>${new Date().toLocaleString()}</td>
+                </tr>
                  
 
                 </table>
