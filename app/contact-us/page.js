@@ -1,10 +1,13 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
+
 
 export default function ContactUsPage() {
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState("");
+const router =  useRouter();
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -28,7 +31,7 @@ export default function ContactUsPage() {
     const data = await res.json();
     setLoading(false);
     setMessage(data.message);
-    e.currentTarget.reset();
+      router.reload();
   }
 
   return (
