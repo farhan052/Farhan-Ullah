@@ -8,7 +8,7 @@ import { techStack } from "@/data/techStack";
 
 const TechSwiper = () => {
   return (
-    <div className="w-64 hidden lg:block">
+    <div className="lg:w-1/4 w-64 hidden lg:block">
       <Swiper
         direction="vertical"
         modules={[Autoplay]}
