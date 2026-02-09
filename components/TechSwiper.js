@@ -37,7 +37,6 @@ const TechSwiper = () => {
                 height={32}
                 className="object-contain"
               />
-
               {/* Name */}
               <span className="text-lg font-semibold text-white">
                 {tech.name}
