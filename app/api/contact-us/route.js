@@ -198,7 +198,7 @@ let html = `
 
                 <p style="margin-bottom:0;">
                   Best regards,<br>
-                  <strong>Your Company Name</strong><br>
+                  <strong>Mohd Farhan Ullah</strong><br>
                   Support Team
                 </p>
               </td>
@@ -223,7 +223,7 @@ let html = `
 
 
  await transporter.sendMail({
-      from: `"Sender Name" <mfu7379@gmail.com>`,
+      from: `Mohd Farhan Ullah`,
       to: data.email,
       subject: subject_client,
       text: data.message,
