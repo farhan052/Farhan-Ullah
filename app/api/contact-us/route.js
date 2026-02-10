@@ -145,14 +145,90 @@ let html = `
 `;
 
 
+
+
+
     await transporter.sendMail({
       from: `"Sender Name" <${data.email}>`,
       to: "mfu7379@gmail.com",
       subject: subject,
-      text: data.message,
+      // text: data.message,
       html: html,
     });
 
+    let subject_client = `Thank you for contacting us!`;
+
+    let html_client =`<!DOCTYPE html>
+<html>
+  <body style="margin:0; padding:0; background-color:#f4f6f8; font-family: Arial, Helvetica, sans-serif;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" style="padding:30px 0;">
+
+          <!-- Card -->
+          <table width="600" cellpadding="0" cellspacing="0"
+            style="background:#ffffff; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+
+            <!-- Header -->
+            <tr>
+              <td style="padding:20px; background:#2563eb; color:#ffffff; border-radius:8px 8px 0 0;">
+                <h2 style="margin:0; font-size:20px;">✅ Thank You for Contacting Us</h2>
+              </td>
+            </tr>
+
+            <!-- Content -->
+            <tr>
+              <td style="padding:20px; color:#111827; font-size:14px; line-height:1.6;">
+                <p style="margin-top:0;">Hello <strong>${data.name}</strong>,</p>
+
+                <p>
+                  Thank you for reaching out to us! We’ve successfully received your message
+                  and appreciate you taking the time to contact us.
+                </p>
+
+                <p style="margin-bottom:8px;"><strong>Your message:</strong></p>
+                <div style="background:#f9fafb; border:1px solid #e5e7eb; padding:12px; border-radius:6px; white-space:pre-line;">
+                  ${data.message}
+                </div>
+
+                <p style="margin-top:16px;">
+                  Our team will review your inquiry and get back to you as soon as possible.
+                  If your request is urgent, feel free to reply directly to this email.
+                </p>
+
+                <p style="margin-bottom:0;">
+                  Best regards,<br>
+                  <strong>Your Company Name</strong><br>
+                  Support Team
+                </p>
+              </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+              <td style="padding:15px; font-size:12px; color:#6b7280; text-align:center; background:#f9fafb; border-radius:0 0 8px 8px;">
+                This is an automated confirmation email. Please do not reply unless necessary.
+              </td>
+            </tr>
+
+          </table>
+          <!-- End Card -->
+
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+`
+
+
+ await transporter.sendMail({
+      from: `"Sender Name" <mfu7379@gmail.com>`,
+      to: data.email,
+      subject: subject_client,
+      text: data.message,
+      html: html_client,
+    });
     // upload/{date}
     // const dirPath = path.join(process.cwd(), "public/upload", date);
 
